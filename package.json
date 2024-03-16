@@ -1,0 +1,12 @@
+{
+  "name": "extractor-typescript-workspace",
+  "private": true,
+  "author": "Michał Fedyna <michal@fedyna.pl>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
